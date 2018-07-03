@@ -1,0 +1,10 @@
+.DS_Store
+
+elephants
+
+__pycache__/
+
+*.py[cod]
+*$py.class
+*~
+*.so
